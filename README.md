@@ -1,0 +1,1 @@
+Project Price Prediction akan meminta kamu membuat sebuah teknologi yang digunakan untuk memberikan perkiraan atau prediksi harga rumah kepada calon pembeli atau pihak yang mencari rumah untuk dibeli.
